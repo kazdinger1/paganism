@@ -1,20 +1,4 @@
-body {
-    /* height:3000px; */
-    /* background: rgb(49,94,99);
-    background: linear-gradient(0deg, rgba(49,94,99,1) 0%, rgba(255,255,255,1) 100%); */
-    /* background: rgb(21,82,70);
-    background: linear-gradient(0deg, rgba(21,82,70,1) 0%, rgba(255,255,255,1) 100%); */
-    /* background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(178,245,255,1) 100%); */
-    /* background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(24,24,24,1) 10%, rgba(22,31,32,1) 17%, rgba(35,53,54,1) 26%, rgba(55,86,87,1) 34%, rgba(140,202,204,1) 67%, rgba(187,246,247,1) 83%, rgba(238,252,252,1) 100%); */
-    /* background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(32,32,65,1) 40%, rgba(92,175,203,1) 87%, rgba(171,241,255,1) 100%); */
-/* background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(64,102,103,1) 47%, rgba(205,253,255,1) 100%); */
-/* background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(55,86,87,1) 34%, rgba(140,202,204,1) 67%, rgba(187,246,247,1) 83%, rgba(238,252,252,1) 100%); */
-}
+
 @font-face {
     font-family: norse;
     src: url(font/RunyTunesRevisitedNF.ttf);
@@ -35,7 +19,6 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
     float:right;
     opacity:0.2;
     align-items: center;
-    /* border: 1px solid red; */
     background-image: url('img/asd33.png');
 }
 
@@ -54,7 +37,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
 }
 .navbar_linkovi {
     
-    font-size: 35px;
+    font-size: 220%;
     font-family: norse;
 }
 .navbar a {
@@ -82,7 +65,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
 }
 .navbar_linkovi1 {
     
-    font-size: 35px;
+    font-size: 220%;
     font-family: norse;
 }
 .navbar1 a {
@@ -139,7 +122,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
 
 .timeline_head div {
     text-align: center;
-    line-height: 70px;
+    line-height: 190%;
     font-family: norse;
     font-size: 30px;
     width:20%;
@@ -241,7 +224,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
 .second_text {
     width:60%;
     height:100%;
-    font-size: 20px;
+    font-size: 130%;
     font-family: 'sans serif';
     text-align: center;
 }
@@ -281,7 +264,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
     width:100%;
     height:20%;
     text-align: center;
-    font-size: 40px;
+    font-size: 300%;
     font-family: norse;
 }
 
@@ -299,7 +282,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
     width:100%;
     height:20%;
     text-align: center;
-    font-size: 40px;
+    font-size: 300%;
     font-family: norse;
 }
 
@@ -316,7 +299,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
     width:100%;
     height:20%;
     text-align: center;
-    font-size: 40px;
+    font-size: 300%;
     font-family: norse;
 }
 
@@ -333,7 +316,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
     width:100%;
     height:20%;
     text-align: center;
-    font-size: 40px;
+    font-size: 300%;
     font-family: norse;
 }
 
@@ -350,7 +333,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
     width:100%;
     height:20%;
     text-align: center;
-    font-size: 40px;
+    font-size: 300%;
     font-family: norse;
 }
 
@@ -381,7 +364,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(31,44,45,1) 17%, rgba(5
 .footer_text {
     width:30%;
     height:100%;
-
+    font-size: 100%;
 }
 .footer_text a {
     color:white;
