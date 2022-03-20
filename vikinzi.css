@@ -202,7 +202,16 @@
     text-decoration: none;
     color: #add8e6;
 }
-.slika:hover {
-    zoom:150%;
+.logo {
+    width: 100px;
+    height: 100px;
+    padding: 15px;
+}
+.link {
+    width: 100px;
+    height: 100px;
+}
+.logo:hover {
+    zoom:105%;
     cursor: pointer;
 }
